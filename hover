@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+
+    button{
+        width: 200px;
+        height: 24px;
+        background-color: aqua;
+    }
+    button:hover{
+        background-color: red;
+
+    }
+</style>
+<title>hello</title>
+</head>
+<body>
+<button>ingabire_2401000886</button>
+
+
+
+</body>
+
+</html>

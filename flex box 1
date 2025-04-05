@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>flexbox</title>
+  </head>
+  <body>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vdw;
+        height: 100vdh;
+      }
+      .container {
+        display: flex;
+        flex-wrap: wrap;
+        width: 80%;
+        margin: 0 auto;
+        gap: 20px;
+        padding: 20px;
+      }
+      .box {
+        width: 300px;
+        height: 200px;
+        background-color: #3498db;
+        border: 2px solid #2980b9;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-size: 24px;
+      }
+    </style>
+    <div class="container">
+      <div class="box"><p>Welcome to our website. Our goal is to provide valuable content and an enjoyable experience. Feel free to explore our pages and discover all the great things we have to offer!</p>
+        </div>
+      <div class="box"><p>Welcome to our website. Our goal is to provide valuable content and an enjoyable experience. Feel free to explore our pages and discover all the great things we have to offer!</p>
+      </div>
+      <div class="box"><p>Welcome to our website. Our goal is to provide valuable content and an enjoyable experience. Feel free to explore our pages and discover all the great things we have to offer!</p>
+      </div>
+      <div class="box"><p>Welcome to our website. Our goal is to provide valuable content and an enjoyable experience. Feel free to explore our pages and discover all the great things we have to offer!</p>
+      </div>
+      <div class="box"><p>Welcome to our website. Our goal is to provide valuable content and an enjoyable experience. Feel free to explore our pages and discover all the great things we have to offer!</p>
+      </div>
+      <div class="box"><p>Welcome to our website. Our goal is to provide valuable content and an enjoyable experience. Feel free to explore our pages and discover all the great things we have to offer!</p>
+      </div>
+      <div class="box"><p>Welcome to our website. Our goal is to provide valuable content and an enjoyable experience. Feel free to explore our pages and discover all the great things we have to offer!</p>
+      </div>
+      <div class="box"><p>Welcome to our website. Our goal is to provide valuable content and an enjoyable experience. Feel free to explore our pages and discover all the great things we have to offer!</p>
+      </div>
+    </div>
+  </body>
+</html>

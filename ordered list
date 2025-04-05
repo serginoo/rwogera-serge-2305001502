@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+    <html lang="en">
+<head>
+<title>hello</title>
+</head>
+<body>
+    
+    an unorderlist:
+    <ul>
+        <li>first item</li>
+        <li>second item</li>
+        <li>third item</li>
+    </ul>
+    an ordered list:
+    <ol>
+        <li>fist item</li>
+        <li>second item</li>
+        <li>third item</li>
+    </ol>
+</body>
+
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>form</title>
+</head>
+<body>
+<form>
+    <label></label>
+<input type="text" placeholder="firstname" name="firstname">
+<input type="submit" placeholder="submit" name="submit">
+</form>
+
+
+</body>
+
+</html>

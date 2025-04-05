@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+    <html lang="en">
+<head>
+<title>table</title>
+<style>
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr,td{
+    border: 3px solid black;
+    padding: 10px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+</style>
+</head>
+<body>
+    <table>
+        <thead>
+            <th>ocean</th>
+        <th>average depth</th>
+        <th>maximum depth</th>
+        </thead>
+        <tbody>
+            <tr>
+            <td>pacific ocean</td>
+            <td>4,280</td>
+            <td>10,688</td>
+            </tr>
+            <tr>
+                <td>atlantic ocean</td>
+                <td>3,680</td>
+                <td>3,617</td>
+            </tr>
+           
+        </tbody>
+        
+    </table>
+
+</body>
+
+</html>

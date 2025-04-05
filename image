@@ -1,0 +1,12 @@
+<DOCTYPE Html>
+<html lang="en">
+    <head>
+        <title>image </title>
+
+    </head>
+    <body> 
+       <img src="dog.jpg" alt  width="1000">
+    </body>
+    
+
+</html>

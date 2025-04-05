@@ -1,0 +1,10 @@
+<DOCTYPE Html>
+<html lang="en">
+    <head>
+        <body>
+            <form>
+                <input type="text" placeholder="sales">
+                <input type="submit">
+            </form> 
+        <body>      
+<html>
